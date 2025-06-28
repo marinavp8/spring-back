@@ -1,0 +1,7 @@
+com/marina/poc/controller/StudentController.class
+com/marina/poc/Repository/StudentRepository.class
+com/marina/poc/service/IStudentService.class
+com/marina/poc/Exception/StudentNotFoundException.class
+com/marina/poc/model/Student.class
+com/marina/poc/service/StudentService.class
+com/marina/poc/Exception/StudentAlreadyExistsException.class
