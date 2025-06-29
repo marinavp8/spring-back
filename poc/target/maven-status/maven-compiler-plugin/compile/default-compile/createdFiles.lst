@@ -1,7 +1,10 @@
-com/marina/poc/controller/StudentController.class
-com/marina/poc/Repository/StudentRepository.class
-com/marina/poc/service/IStudentService.class
-com/marina/poc/Exception/StudentNotFoundException.class
-com/marina/poc/model/Student.class
-com/marina/poc/service/StudentService.class
-com/marina/poc/Exception/StudentAlreadyExistsException.class
+com/marina/poc/WebConfig$1.class
+com/marina/poc/application/StudentService.class
+com/marina/poc/domain/model/Student.class
+com/marina/poc/adapter/in/controller/StudentController.class
+com/marina/poc/adapter/out/persistence/StudentRepositoryAdapter.class
+com/marina/poc/PocApplication.class
+com/marina/poc/domain/port/in/StudentUseCase.class
+com/marina/poc/WebConfig.class
+com/marina/poc/adapter/out/persistence/StudentRepositoryJpa.class
+com/marina/poc/domain/port/out/StudentRepositoryPort.class
