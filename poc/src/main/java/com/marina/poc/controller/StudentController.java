@@ -24,7 +24,7 @@ public class StudentController {
 
     @GetMapping
     public ResponseEntity<List<Student>> getAllStudents() {
-        return new ResponseEntity<>(studentService.getAllStudents(), HttpStatus.FOUND);
+        return new ResponseEntity<>(studentService.getAllStudents(), HttpStatus.OK);
     }
 
     @PostMapping
@@ -45,7 +45,7 @@ public class StudentController {
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> deleteStudent(@PathVariable Long id) {
         studentService.deleteStudent(id);
-        return new ResponseEntity<>(HttpStatus.FOUND);
+        return new ResponseEntity<>(HttpStatus.OK);
     }
 
 }

@@ -2,6 +2,7 @@
 /Users/marinaviejopomata/sprinboot2/poc/src/main/java/com/marina/poc/PocApplication.java
 /Users/marinaviejopomata/sprinboot2/poc/src/main/java/com/marina/poc/model/Student.java
 /Users/marinaviejopomata/sprinboot2/poc/src/main/java/com/marina/poc/Exception/StudentAlreadyExistsException.java
+/Users/marinaviejopomata/sprinboot2/poc/src/main/java/com/marina/poc/WebConfig.java
 /Users/marinaviejopomata/sprinboot2/poc/src/main/java/com/marina/poc/Exception/StudentNotFoundException.java
 /Users/marinaviejopomata/sprinboot2/poc/src/main/java/com/marina/poc/service/IStudentService.java
 /Users/marinaviejopomata/sprinboot2/poc/src/main/java/com/marina/poc/controller/StudentController.java
